@@ -4,10 +4,7 @@
 
 ### Bang Registry
 
-- [ ] fetch bang registry from duckduckgo
-- [ ] parse bang registry
-- [ ] save bang registry to local storage
-- [ ] use local storage for bang registry
+- [ ] store is locally in browser
 
 ### Query Parser
 
