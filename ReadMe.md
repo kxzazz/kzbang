@@ -4,19 +4,26 @@
 
 ### Bang Registry
 
-- [ ] store is locally in browser
+- [x] store is locally in browser
+
+Turns out static files are cached by the browser. Amazing.
+Works Offline toooooooooooo <3
 
 ### Query Parser
 
-- [ ] parse query
-- [ ] parse query to bang registry
-- [ ] use bang registry to find bang
-- [ ] modify url from bang registry and add query to it
+- [x] parse query
+- [x] parse query to bang registry
+- [x] use bang registry to find bang
+- [x] modify url from bang registry and add search term to it
 
 ### redirect
 
-- [ ] redirect to modified url
+- [x] redirect to modified url
 
 ### default Webpage
 
 - [ ] default webpage
+
+### default Bang
+
+- [ ] let user set default bang ... using params?
