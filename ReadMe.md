@@ -6,8 +6,8 @@
 
 - [x] store is locally in browser
 
-Turns out static files are cached by the browser. Amazing.
-Works Offline toooooooooooo <3
+Turns out static files are cached by the browser. Amazing. \n
+Works Offline tooooooooooo 🩶
 
 ### Query Parser
 
